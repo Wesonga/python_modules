@@ -1,0 +1,7 @@
+name = input("Enter your name: ")
+print(name)
+print(name.lower())
+print(name.upper())
+print(len(name))
+print(name[1:5])
+print(name[0:0:-3])

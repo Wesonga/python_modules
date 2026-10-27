@@ -1,0 +1,3 @@
+Hello, file handling!
+Learning Python is fun.
+This is a new appended line.
